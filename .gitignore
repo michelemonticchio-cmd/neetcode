@@ -1,15 +1,16 @@
-# Compiled
+# Java / Maven
 *.class
 target/
-build/
-
-# Maven
 .mvn/
 mvnw
 mvnw.cmd
 
-# Gradle (in case)
-.gradle/
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
 
 # IDE
 .idea/
