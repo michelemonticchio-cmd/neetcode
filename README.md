@@ -12,14 +12,14 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 1 / 150 · **Python:** 0 / 150
+**Java:** 2 / 150 · **Python:** 0 / 150
 
 ### Arrays & Hashing (1/9)
 
 | # | Problem | Java | Python |
 |---|---------|:----:|:------:|
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [✅](./java/src/main/java/neetcode/arraysandhashing/p0217_containsduplicate/) | ⬜ |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ⬜ | ⬜ |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ | ⬜ |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | ⬜ | ⬜ |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ⬜ | ⬜ |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ⬜ | ⬜ |
