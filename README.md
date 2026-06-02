@@ -12,9 +12,9 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 4 / 150 · **Python:** 0 / 150
+**Java:** 5 / 150 · **Python:** 0 / 150
 
-### Arrays & Hashing (4/9)
+### Arrays & Hashing (5/9)
 
 | # | Problem | Java | Python |
 |---|---------|:----:|:------:|
@@ -22,7 +22,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ | ⬜ |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | ⬜ |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ✅ | ⬜ |
-| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ⬜ | ⬜ |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ✅ | ⬜ |
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | ⬜ | ⬜ |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ⬜ | ⬜ |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | ⬜ | ⬜ |
