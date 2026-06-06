@@ -79,4 +79,3 @@ other so each step processes one element. The same template appears in:
 The "skip-while-filtering" trick (inner whiles that advance until a valid
 position is reached) is also broadly reusable whenever the input contains
 characters/items you want to ignore without preallocating a cleaned copy.
-```
