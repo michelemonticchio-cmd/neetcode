@@ -12,7 +12,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 11 / 150 · **Python:** 9 / 150
+**Java:** 12 / 150 · **Python:** 0 / 150
 
 ### Arrays & Hashing (9/9)
 
@@ -28,13 +28,13 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | ✅ | ⬜ |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅ | ⬜ |
 
-### Two Pointers (2/5)
+### Two Pointers (3/5)
 
 | # | Problem | Java | Python |
 |---|---------|:----:|:------:|
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ | ⬜ |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ✅ | ⬜ |
-| 15 | [3Sum](https://leetcode.com/problems/3sum/) | ⬜ | ⬜ |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | ✅ | ⬜ |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ⬜ | ⬜ |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | ⬜ | ⬜ |
 
