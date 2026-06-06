@@ -20,7 +20,6 @@ Constraints:
 
 The key observation: for any index `i`,
 output[i] = (product of nums[0..i-1]) × (product of nums[i+1..n-1])
-                   left of i                      right of i
                    
 So if we can quickly compute "left product" and "right product" for each
 position, the answer for each `i` is just their multiplication.
