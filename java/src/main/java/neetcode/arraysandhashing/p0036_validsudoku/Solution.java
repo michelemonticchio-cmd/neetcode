@@ -14,7 +14,6 @@ public class Solution {
      */
     @SuppressWarnings("unchecked")
     public boolean isValidSudoku(char[][] board) {
-        // 9 sets for rows, 9 for columns, 9 for the 3x3 sub-boxes
         Set<Character>[] rows = new HashSet[9];
         Set<Character>[] cols = new HashSet[9];
         Set<Character>[] boxes = new HashSet[9];
@@ -32,16 +31,11 @@ public class Solution {
                 // Map (row, col) → box index in 0..8
                 int boxIndex = (r / 3) * 3 + (c / 3);
 
-                // If the digit already appears in row, column, or box → invalid
-                if (rows[r].contains(ch) ||
-                    cols[c].contains(ch) ||
-                    boxes[boxIndex].contains(ch)) {
+                // Set.add() returns false if the element was already present.
+                // Short-circuit evaluation stops at the first duplicate.
+                if (!rows[r].add(ch) || !cols[c].add(ch) || !boxes[boxIndex].add(ch)) {
                     return false;
                 }
-
-                rows[r].add(ch);
-                cols[c].add(ch);
-                boxes[boxIndex].add(ch);
             }
         }
 
