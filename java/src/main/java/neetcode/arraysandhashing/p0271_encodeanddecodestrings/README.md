@@ -19,6 +19,8 @@ will work — the input might contain whatever character you pick as a delimiter
 **Length-prefix encoding.** For each string, write its length, a delimiter `#`,
 then the string itself. Concatenate everything.
 
+    ["abc", "defg"]  →  "3#abc4#defg"
+
 **Encode** is a simple loop with `StringBuilder`.
 
 **Decode** uses two pointers:
