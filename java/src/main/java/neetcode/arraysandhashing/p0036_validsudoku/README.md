@@ -33,15 +33,24 @@ whether the digit is already present in the corresponding row set, column
 set, or box set. If yes, the board is invalid. Otherwise, we add the digit
 to all three sets and continue.
 
+We exploit a useful property: `Set.add()` returns `false` when the element
+was already present. This lets us combine "check and insert" into a single
+expression with short-circuit `||`.
+
 ### Mapping `(row, col)` to box index
 
 Each cell belongs to one of nine 3×3 boxes, numbered 0..8 like this:
-col: 0-2  3-5  6-8
-row:
-0-2     0    1    2
-3-5     3    4    5
-6-8     6    7    8
-The formula:    boxIndex = (row / 3) * 3 + (col / 3)
+
+       col: 0-2  3-5  6-8
+    row:
+    0-2     0    1    2
+    3-5     3    4    5
+    6-8     6    7    8
+
+The formula:
+
+    boxIndex = (row / 3) * 3 + (col / 3)
+
 In Java, `/` on `int` is integer division (truncates), so `r/3` groups three
 rows together and `c/3` groups three columns. Multiplying the row group by 3
 and adding the column group flattens the 2D box coordinates into a single
@@ -67,16 +76,14 @@ a grid into block regions.
 
 ## Alternative
 
-A more compact version uses `Set.add()`'s return value (which is `false` if
-the element was already present) to merge the check and the insert in a
-single expression:
+A more verbose version uses explicit `contains()` checks before `add()`:
 
-```java
-if (!rows[r].add(ch) || !cols[c].add(ch) || !boxes[boxIndex].add(ch)) {
-    return false;
-}
-```
+    if (rows[r].contains(ch) || cols[c].contains(ch) || boxes[boxIndex].contains(ch)) {
+        return false;
+    }
+    rows[r].add(ch);
+    cols[c].add(ch);
+    boxes[boxIndex].add(ch);
 
-This works because of short-circuit evaluation in `||`. It's idiomatic but
-slightly trickier to read; the separate check-then-add version above
-prioritizes clarity.
+Asymptotically identical; the compact `add()` version above is preferred
+once one is comfortable with the short-circuit-`||` idiom.
