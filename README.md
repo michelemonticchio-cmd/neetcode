@@ -12,7 +12,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 19 / 150 · **Python:** 0 / 150
+**Java:** 20 / 150 · **Python:** 0 / 150
 
 ### Arrays & Hashing (9/9)
 
@@ -38,7 +38,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ✅ | ⬜ |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | ✅ | ⬜ |
 
-### Sliding Window (5/6)
+### Sliding Window (6/6)
 
 | # | Problem | Java | Python |
 |---|---------|:----:|:------:|
@@ -47,7 +47,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ✅ | ⬜ |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | ✅ | ⬜ |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ✅ | ⬜ |
-| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | ⬜ | ⬜ |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | ✅ | ⬜ |
 
 ### Stack (0/7)
 
