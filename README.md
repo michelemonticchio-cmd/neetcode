@@ -12,7 +12,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 25 / 150 · **Python:** 0 / 150
+**Java:** 26 / 150 · **Python:** 0 / 150
 
 ### Arrays & Hashing (9/9)
 
@@ -49,7 +49,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ✅ | ⬜ |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | ✅ | ⬜ |
 
-### Stack (4/6)
+### Stack (6/6)
 
 | # | Problem | Java | Python |
 |---|---------|:----:|:------:|
@@ -58,7 +58,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | ✅ | ⬜ |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ✅ | ⬜ |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | ✅ | ⬜ |
-| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ⬜ | ⬜ |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ✅ | ⬜ |
 
 ### Binary Search (0/7)
 
