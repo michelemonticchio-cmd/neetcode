@@ -12,7 +12,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 24 / 150 · **Python:** 0 / 150
+**Java:** 25 / 150 · **Python:** 0 / 150
 
 ### Arrays & Hashing (9/9)
 
@@ -57,7 +57,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | ✅ | ⬜ |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | ✅ | ⬜ |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ✅ | ⬜ |
-| 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | ⬜ | ⬜ |
+| 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | ✅ | ⬜ |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ⬜ | ⬜ |
 
 ### Binary Search (0/7)
