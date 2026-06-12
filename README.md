@@ -12,7 +12,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 26 / 150 · **Python:** 0 / 150
+**Java:** 28 / 150 · **Python:** 0 / 150
 
 ### Arrays & Hashing (9/9)
 
@@ -60,12 +60,12 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | ✅ | ⬜ |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ✅ | ⬜ |
 
-### Binary Search (0/7)
+### Binary Search (2/7)
 
 | # | Problem | Java | Python |
 |---|---------|:----:|:------:|
-| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | ⬜ | ⬜ |
-| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | ⬜ | ⬜ |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | ✅ | ⬜ |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | ✅ | ⬜ |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ⬜ | ⬜ |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ⬜ | ⬜ |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ⬜ | ⬜ |
