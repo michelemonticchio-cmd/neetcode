@@ -72,7 +72,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | ✅ | ⬜ |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ✅ | ⬜ |
 
-### Linked List (7/11)
+### Linked List (8/11)
 
 | # | Problem | Java | Python |
 |---|---------|:----:|:------:|
@@ -83,7 +83,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ✅ | ⬜ |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ✅ | ⬜ |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | ✅ | ⬜ |
-| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | ⬜ | ⬜ |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | ✅ | ⬜ |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | ⬜ | ⬜ |
 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | ⬜ | ⬜ |
 | 25 | [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | ⬜ | ⬜ |
