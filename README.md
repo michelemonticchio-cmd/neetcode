@@ -12,7 +12,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 33 / 150 · **Python:** 0 / 150
+**Java:** 34 / 150 · **Python:** 0 / 150
 
 ### Arrays & Hashing (9/9)
 
@@ -72,11 +72,11 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | ✅ | ⬜ |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ✅ | ⬜ |
 
-### Linked List (0/11)
+### Linked List (1/11)
 
 | # | Problem | Java | Python |
 |---|---------|:----:|:------:|
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ⬜ | ⬜ |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅ | ⬜ |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ⬜ | ⬜ |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | ⬜ | ⬜ |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ⬜ | ⬜ |
