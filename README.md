@@ -12,7 +12,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 34 / 150 · **Python:** 0 / 150
+**Java:** 35 / 150 · **Python:** 0 / 150
 
 ### Arrays & Hashing (9/9)
 
@@ -77,7 +77,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | # | Problem | Java | Python |
 |---|---------|:----:|:------:|
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ✅ | ⬜ |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ⬜ | ⬜ |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ✅ | ⬜ |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | ⬜ | ⬜ |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ⬜ | ⬜ |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ⬜ | ⬜ |
