@@ -12,7 +12,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 38 / 150 · **Python:** 0 / 150
+**Java:** 40 / 150 · **Python:** 0 / 150
 
 ### Arrays & Hashing (9/9)
 
@@ -72,7 +72,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | ✅ | ⬜ |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ✅ | ⬜ |
 
-### Linked List (6/11)
+### Linked List (7/11)
 
 | # | Problem | Java | Python |
 |---|---------|:----:|:------:|
@@ -81,7 +81,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 143 | [Reorder Linked List](https://leetcode.com/problems/reorder-list/) | ✅ | ⬜ |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ✅ | ⬜ |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ✅ | ⬜ |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ⬜ | ⬜ |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ✅ | ⬜ |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | ✅ | ⬜ |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | ⬜ | ⬜ |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | ⬜ | ⬜ |
