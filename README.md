@@ -12,7 +12,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 35 / 150 · **Python:** 0 / 150
+**Java:** 36 / 150 · **Python:** 0 / 150
 
 ### Arrays & Hashing (9/9)
 
@@ -82,7 +82,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ⬜ | ⬜ |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | ⬜ | ⬜ |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ⬜ | ⬜ |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | ⬜ | ⬜ |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | ✅ | ⬜ |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | ⬜ | ⬜ |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | ⬜ | ⬜ |
 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | ⬜ | ⬜ |
