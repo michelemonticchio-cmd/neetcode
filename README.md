@@ -12,7 +12,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 32 / 150 · **Python:** 0 / 150
+**Java:** 33 / 150 · **Python:** 0 / 150
 
 ### Arrays & Hashing (9/9)
 
@@ -60,7 +60,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | ✅ | ⬜ |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | ✅ | ⬜ |
 
-### Binary Search (6/7)
+### Binary Search (7/7)
 
 | # | Problem | Java | Python |
 |---|---------|:----:|:------:|
@@ -69,8 +69,8 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ✅ | ⬜ |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ✅ | ⬜ |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ✅ | ⬜ |
-| 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) |✅  | ⬜ |
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ⬜ | ⬜ |
+| 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | ✅ | ⬜ |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ✅ | ⬜ |
 
 ### Linked List (0/11)
 
