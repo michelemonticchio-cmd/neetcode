@@ -12,7 +12,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 37 / 150 · **Python:** 0 / 150
+**Java:** 38 / 150 · **Python:** 0 / 150
 
 ### Arrays & Hashing (9/9)
 
@@ -72,7 +72,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | ✅ | ⬜ |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ✅ | ⬜ |
 
-### Linked List (1/11)
+### Linked List (5/11)
 
 | # | Problem | Java | Python |
 |---|---------|:----:|:------:|
