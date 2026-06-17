@@ -12,7 +12,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 44 / 150 · **Python:** 0 / 150
+**Java:** 45 / 150 · **Python:** 0 / 150
 
 ### Arrays & Hashing (9/9)
 
@@ -88,11 +88,11 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | 23 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | ✅ | ⬜ |
 | 25 | [Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | ✅ | ⬜ |
 
-### Trees (0/15)
+### Trees (1/15)
 
 | # | Problem | Java | Python |
 |---|---------|:----:|:------:|
-| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ⬜ | ⬜ |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ✅ | ⬜ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ⬜ | ⬜ |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ⬜ | ⬜ |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | ⬜ | ⬜ |
