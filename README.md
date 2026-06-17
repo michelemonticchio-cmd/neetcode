@@ -34,7 +34,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 |---|---------|:----:|:------:|
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ | ✅ |
 | 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ✅ | ✅ |
-| 15 | [3Sum](https://leetcode.com/problems/3sum/) | ✅ | ⬜ |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | ✅ | ✅ |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ✅ | ⬜ |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | ✅ | ⬜ |
 
