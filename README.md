@@ -12,7 +12,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 45 / 150 · **Python:** 2 / 150
+**Java:** 45 / 150 · **Python:** 3 / 150
 
 ### Arrays & Hashing (9/9)
 
@@ -20,7 +20,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 |---|---------|:----:|:------:|
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ✅ | ✅ |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ | ✅ |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | ⬜ |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | ✅ |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ✅ | ⬜ |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ✅ | ⬜ |
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | ✅ | ⬜ |
