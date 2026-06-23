@@ -12,7 +12,7 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 
 ## Progress
 
-**Java:** 45 / 150 · **Python:** 15 / 150
+**Java:** 45 / 150 · **Python:** 17 / 150
 
 ### Arrays & Hashing (9/9)
 
@@ -43,8 +43,8 @@ Each problem has its own folder with a `Solution` file, a `README.md` with the a
 | # | Problem | Java | Python |
 |---|---------|:----:|:------:|
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | ✅ | ✅ |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ | ⬜ |
-| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ✅ | ⬜ |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅ | ✅ |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ✅ | ✅ |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | ✅ | ⬜ |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ✅ | ⬜ |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | ✅ | ⬜ |
